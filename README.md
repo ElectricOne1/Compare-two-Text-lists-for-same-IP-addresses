@@ -10,5 +10,5 @@
 ### Step 3) in linux , remember to go to properties > permissions> check allow executing as a program. 
 
 
-### Usage: sudo Python3 "compareList.py" <or whatever you named it , can even drop and drag the file into terminal , program will spit out amounts and when it's finished , 
+### Usage: sudo Python3 "compareList.py" or whatever you named it , can even drop and drag the file into terminal , program will spit out amounts and when it's finished , 
     command: python compareIP.py > ( new filename.txt) Should also allow you to save a new text file with the list of IPs that were discovered in both lists.
